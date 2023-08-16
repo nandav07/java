@@ -1,0 +1,11 @@
+1.  Launch your environment
+2. Install JDK
+3. Navigate to the root directory for your service (every service must be in its own directory)
+4. Bootstrap your microservice with Gradle or Maven by contacting spring.io (you can use curl or you can go to the website directly).  In the end, you need the starter code.
+5. Delete the demo test file
+6.  delete the demo directory and main class
+7.  Create the Main Application (mostly copy and paste code)
+8.  Craft the controller (define all of your end points and your methods)
+9.  Build the Application with Gradle or Maven (compile, grab all dependencies, create a jar file out of everything).
+10.  Run the application
+11.  Optionally, you can put this service into a Docker Container (but this often happens with your devops team or whoever controls Jenkins
